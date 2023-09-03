@@ -1,6 +1,8 @@
 # kkelvinnguyen.github.io
 My own website and first time using HTML, CSS and JS.
 
+Access Here: https://kkelvinnguyen.github.io/
+
 Current Version 1.0 - WEBSITE LAUNCH!
 
 Currently Fixing:
