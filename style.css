@@ -41,6 +41,7 @@ body {
 #logo {
     height: 5%;
     width: 5%;
+    min-width: 40px;
 }
 
 header {
@@ -100,6 +101,7 @@ header .menu a:hover {
     display: flex;
     align-items: flex-end;
     padding-bottom: 10vh;
+    gap: 3.5vw;
 }
 
 h1 {
@@ -110,16 +112,21 @@ h1 {
 
 .col1 {
     height: 50vh;
+    min-width: 35vw;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    margin-left: 3vw;
 }
 
 .col2 {
     margin-right: 2vw;
     margin-bottom: 2vh;
+    display: flex;
+    justify-content: right;
 }
+
 
 .boldtitle {
     font-weight: 500;
