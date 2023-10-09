@@ -135,11 +135,6 @@ h1 {
     letter-spacing: 1px;
 }
 
-.wire {
-    width: 107%;
-    transform: translateX(-30%);
-}
-
 .projects {
     width: 100%;
     height: auto;
