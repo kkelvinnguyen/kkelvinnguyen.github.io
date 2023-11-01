@@ -12,5 +12,5 @@ Currently Fixing:
 
 Previous Versions:
 
-Version 1.0 - WEBSITE LAUNCH!
+Version 1.0 - WEBSITE LAUNCH!  
 Version 1.1 - Minor Fixes
