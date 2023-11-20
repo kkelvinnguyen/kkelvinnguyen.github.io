@@ -1,15 +1,16 @@
 # kkelvinnguyen.github.io
 My own website and first time using HTML, CSS and JS.
+Responsive for Computers & iPads.
 
 Access Here: https://kkelvinnguyen.github.io/
 
-Current Version 1.1 - MINOR FIXES
+Current Version 1.2 - RESPONSIVE SITE (mostly lol)
 
 Currently Fixing:
-1. Making the website fully responsive (almost there!)
-2. Fixing some minor layout and designs.
-3. Strive for a more unique UI.
+1. Making the website responsive for phones.
+2. Strive for a more unique UI.
 
 Previous Versions:
 
-Version 1.0 - WEBSITE LAUNCH!
+Version 1.0 - WEBSITE LAUNCH!  
+Version 1.1 - Minor Fixes
