@@ -4,11 +4,10 @@ Responsive for Computers, iPads and iPhones.
 
 Access Here: https://kkelvinnguyen.github.io/
 
-Current Version 1.2 - RESPONSIVE SITE (mostly lol)
+Current Version 1.2 - RESPONSIVE SITE
 
 Currently Fixing:
-1. Making the website responsive for phones.
-2. Strive for a more unique UI.
+1. Strive for a more unique UI.
 
 Previous Versions:
 
