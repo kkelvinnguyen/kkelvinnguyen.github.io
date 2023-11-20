@@ -1,6 +1,6 @@
 # kkelvinnguyen.github.io
 My own website and first time using HTML, CSS and JS.
-Responsive for Computers & iPads.
+Responsive for Computers, iPads and iPhones.
 
 Access Here: https://kkelvinnguyen.github.io/
 
